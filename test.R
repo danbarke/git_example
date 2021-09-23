@@ -1,5 +1,5 @@
 print("test1")
 print("test2")
 print("test3")
-print("test4")
+print("weird line not matching pattern")
 print("test5")
